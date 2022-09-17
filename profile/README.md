@@ -1,10 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 ## Welcome To If Null True
 
-Our Websites:
-- https://ifnulltrue.com
-- https://ints.dev
-- https://ints.oggyp.com (Mirror Of ifnulltrue.com)
+If Null True Studios (INTS) is a partnership between
+[kElnaDev](https://github.com/kElnaDev), 
+[OggyP](https://github.com/OggyP) and 
+[dungcatcher](https://github.com/dungcatcher).
+
+We've created many websites and games, as well as the [OggyP Suite](https://oggyp.com).
+
+To learn more, visit [our homepage](https://ifnulltrue.com).
+
+## See also
+- OggyP Suite (https://oggyp.com)
+- kElna.dev (https://kelna.dev)
+- The dungpit (https://ewan.oggyp.com)
 
 <!--
 
